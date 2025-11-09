@@ -8,3 +8,11 @@ numpy==1.24.3
 faiss-cpu==1.7.4
 pandas==2.0.3
 reportlab==4.0.4
+
+# spaCy dependencies (prebuilt wheels to prevent build errors)
+blis==0.7.10
+catalogue==2.0.9
+srsly==2.4.8
+thinc==8.2.2
+murmurhash==1.0.10
+preshed==3.0.9
